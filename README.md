@@ -4,12 +4,16 @@
 
 This is a my website to showcase my skills.
 
-## Projects
+## Facts about me
 
-![My image](/users/tynei/Downloads/welcome.jpg)
+### I like to play guitar
+### I am a senior
+### I like icecream
+
+
 
 ## Contact
 
-Feel free to contact me for any inquiries or collaborations.
-- Email: myemail@example.com
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/username/)
+Feel free to add me on linked in!
+- Email: tyhawkins@tamu.edu
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ty-hawkins-89867916a/)
