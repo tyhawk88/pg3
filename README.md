@@ -1,18 +1,18 @@
-# Welcome to My Github Website
+# Welcome to My Github Website!!
 
-## About
+## About this site:
 
 This is a my website to showcase my skills.
 
-## Facts about me
+## Facts about me:
 
-### I like to play guitar
-### I am a senior
-### I like icecream
+### I like to play guitar.
+### I am a senior.
+### I like icecream.
 
 
 
-## Contact
+## Contact:
 
 Feel free to add me on linked in!
 - Email: tyhawkins@tamu.edu
